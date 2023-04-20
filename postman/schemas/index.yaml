@@ -17,7 +17,7 @@ paths:
       summary: Read a spacecraft
       responses:
         '200':
-          description: The spacecraft corresponding to the provided `spacecraftId`
+          description: The spacecraft corresponding to the provided `spacecraftId` changes from GH
           content:
             application/json:
               schema:
