@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "1c6f5308-92c1-402b-8816-fc2fe0063529",
+		"name": "C1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "12420868-1c6f5308-92c1-402b-8816-fc2fe0063529"
+	},
+	"item": [
+		{
+			"name": "New",
+			"id": "9037d5f0-a7aa-4296-9225-e98ac84d9374",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    // comments\n    \"name\" : \"Shashank\"\n\n    /*\n        More comments\n    */\n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
