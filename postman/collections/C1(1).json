@@ -5,5 +5,18 @@
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "12420868-0c375d47-4f33-47a8-9d6d-de5a44a08c76"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "New Request",
+			"id": "9ed44617-98fb-4ec6-9690-20a84cbb6baf",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
 }
